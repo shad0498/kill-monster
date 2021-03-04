@@ -1,2 +1,2 @@
-# kill-monster
-.
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
